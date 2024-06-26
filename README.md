@@ -1,4 +1,4 @@
-![banner_ankkdev](https://github.com/ankkdev/antoniokan77/assets/158085013/43f6854c-a8c5-4b6d-8b83-b1c10dc2545b)
+![banner_ankkdev](https://github.com/ankkdev/ankkdev/assets/158085013/a3d719e7-88e0-4046-a7ae-7b46f3b225d2)
 # 💫 About Me:
 ✨ Creating bugs since: 2023<br><br>📚 I'm currently learning Python<br><br>🎯 Goals: Master modern web technologies, build responsive and accessible websites, optimize performance, enhance user experience, contribute to open source, develop backend skills, and implement security best practices.<br><br>🎲 Fun fact: Did you know that the first computer program was written by Ada Lovelace in 1843? 🎉 Ada, an English mathematician and writer, worked on Charles Babbage's Analytical Engine and described an algorithm for computing Bernoulli numbers, making her the world's first programmer. 🚀✨
 
