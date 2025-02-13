@@ -1,6 +1,6 @@
 <pre>
 #######################################################################################
-                               [ SYSTEM INFO - HACKER MODE ]
+                               [ SYSTEM INFO ]
 #######################################################################################
 
                      __        __              __                     
@@ -17,26 +17,25 @@
                            [ CONFIGURATION AND DEV INFO ]
 #######################################################################################
 
-  🖥️  **OS**:              Ubuntu 22.04 LTS                            
+  🖥️  **OS**:              Fedora 41                            
   💻  **Terminal**:        Alacritty, Windows Terminal
   📝  **Editor**:          VSCode, Sublime Text
   🐚  **Shell**:           Zsh + Oh My Zsh
-  🗄️  **Dotfiles**:        Stowed, Git
+  🗄️  **Dotfiles**:        Git
   🎨  **Languages**:       JavaScript, Java, PHP, Bash
-  🌐  **Frontend**:        HTML5, CSS3, Tailwind, Angular, React
-  🛠️  **Backend**:         PHP, MySQL, Node.js, Express
-  ⚙️  **DevOps**:           Docker, Nginx, Kubernetes
-  🔧  **Tools**:           Git, Vim, SSH, tmux, Npm, Yarn
-  🔥  **Hobbies**:         Linux Rice, Overclocking, DevOps, Gaming
-  📦  **Projects**:        [Islarent](#) | [🔗 Repo2](#)
+  🌐  **Frontend**:        HTML5, CSS3, Tailwind, Angular, Alpine.js
+  🛠️  **Backend**:         PHP, MySQL
+  ⚙️  **DevOps**:           Docker
+  🔧  **Tools**:           Git, Vim, SSH, Npm
+  🔥  **Hobbies**:         Linux Rice
+  📦  **Projects**:        [Islarent](#) | [Swiss Guide]
 
 #######################################################################################
                               [ CONTACT AND SOCIAL ]
 #######################################################################################
 
   🐙  **GitHub**:          github.com/ankkdev
-  💼  **LinkedIn**:        [linkedin.com/in/ankkdev](#)
-  🐦  **Twitter**:         [@ankkdev](#)
+  💼  **LinkedIn**:        [linkedin.com/in/ankkdev]
   
 #######################################################################################
     
