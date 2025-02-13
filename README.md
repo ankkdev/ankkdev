@@ -1,4 +1,4 @@
-
+```plaintext
 #######################################################################################
                                [ SYSTEM INFO - HACKER MODE ]
 #######################################################################################
@@ -17,18 +17,18 @@
                            [ CONFIGURATION AND DEV INFO ]
 #######################################################################################
 
-  🖥️  **OS**:              Fedora 41 / Windows 11                            
+  🖥️  **OS**:              Ubuntu 22.04 LTS                            
   💻  **Terminal**:        Alacritty, Windows Terminal
-  📝  **Editor**:          VSCode, Neovim
+  📝  **Editor**:          VSCode, Sublime Text
   🐚  **Shell**:           Zsh + Oh My Zsh
-  🗄️  **Dotfiles**:        Git
+  🗄️  **Dotfiles**:        Stowed, Git
   🎨  **Languages**:       JavaScript, Java, PHP, Bash
-  🌐  **Frontend**:        HTML5, CSS3, Tailwind, Angular,Alpine.js
-  🛠️  **Backend**:         PHP, MySQL, Node.js
-  ⚙️  **DevOps**:           Docker
-  🔧  **Tools**:           Git, Vim, SSH, Npm
-  🔥  **Hobbies**:         Linux Rice
-  📦  **Projects**:        [Islarent] | [Swiss guide]
+  🌐  **Frontend**:        HTML5, CSS3, Tailwind, Angular, React
+  🛠️  **Backend**:         PHP, MySQL, Node.js, Express
+  ⚙️  **DevOps**:           Docker, Nginx, Kubernetes
+  🔧  **Tools**:           Git, Vim, SSH, tmux, Npm, Yarn
+  🔥  **Hobbies**:         Linux Rice, Overclocking, DevOps, Gaming
+  📦  **Projects**:        [Islarent](#) | [🔗 Repo2](#)
 
 #######################################################################################
                               [ CONTACT AND SOCIAL ]
