@@ -1,6 +1,6 @@
-![343160955-a3d719e7-88e0-4046-a7ae-7b46f3b225d2](https://github.com/user-attachments/assets/72e465d4-ac53-4fe3-8f6a-c3d9e8dc663d)
 
-<h1>Hi 👋</h1>
+
+<h1>Hi there👋</h1>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
